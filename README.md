@@ -1,10 +1,6 @@
-# DT084G
-Laborationer/uppgifter för kursen DT084G, Introduktion till programmering i JavaScript HT25
+# Labbgrund till Moment 5 i kursen DT084G, Introduktion till programmering i JavaScript
 
-## Kursens uppgifter
-- ~~Laboration 1~~
-- ~~Laboration 2~~
-- Laboration 3
-- Laboration 4
-- Laboration 5.1
-- Laboration 5.2
+Av Elisa Lindström, 2025. Student-id: elli1903
+
+## Beskrivning av laboration
+Laborationen är uppdelad i tre delar, en del för kanallistan, en del för radiospelaren och en del för tablån. Data hämtas i två olika funktioner, en för att hämta kanalinformation och en för att hämta tablåer.
